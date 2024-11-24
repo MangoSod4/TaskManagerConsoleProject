@@ -1,0 +1,10 @@
+# Ignore build results
+[Bb]in/
+[Oo]bj/
+
+# Ignore user-specific files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
